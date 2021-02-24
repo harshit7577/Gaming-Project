@@ -1,0 +1,15 @@
+
+/* ############Utility Classes############## */
+
+.container{
+  max-width: 1200px;
+  width: 90%;
+  margin: auto;
+}
+
+/* #############Navbar Styling##################### */
+
+/* ##############Dekstop-Mode################## */
+.navbar input[type='checkbox'],.navbar .hamburger-lines{
+  display: none;
+}
